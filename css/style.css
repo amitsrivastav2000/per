@@ -1,0 +1,147 @@
+.intro
+{
+  background-color: #fdffbc;
+  padding-left: 500px;
+  height: 680px;
+  width: 100%;
+}
+.a
+{
+  position: relative;
+  margin: 400px 100px 0 150px;
+  top: -50px;
+  right: 500px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  width: 100%;
+  font-size: 20px;
+}
+.b{
+  position: relative;
+  left: 0;
+  line-height: 2;
+  bottom: 500px;
+}
+.ed
+{
+color: white;
+  position: relative;
+  bottom: 300px;
+}
+body{
+  margin: 0;
+  background-color: #0a043c;
+}
+h1
+{
+  font-family: 'Kaushan Script', cursive;
+  position: relative;
+  margin: 220px 0 0 400px;;
+  bottom: 80;
+  right: 380px;
+  padding-top: 50px;
+  float: left;
+  font-size: 50px;
+}
+.bl
+{color: white;
+  position: relative;
+  margin: auto;
+
+}
+h2{color: white;
+  margin: 0 580px;
+  text-decoration: underline;
+  padding-top: 40px;
+}
+.c{
+color: white;
+  position: relative;
+  margin: auto;
+  left: 500px;
+  padding-top: 20px;
+}
+.c1
+{
+color: white;
+  position: relative;
+  width: 225px;
+  height: 225px;
+  left: 500px;
+top: 50px;
+}
+.circular
+{
+  border-radius: 100%;
+}
+li{color: white;
+  position: relative;
+left: 540px;
+height: 100%;
+}
+.bl1{color: white;
+  position:relative;
+  top: 200px;
+  padding-left: 150px;
+  display:inline-block;
+  text-align: center;
+}
+.d{color: white;
+  position: relative;
+  top: 100px;
+  left: 400px;
+  font-size: 20px;
+}
+.cd{color: white;
+  position: relative;
+  top: 120px;
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width: 10%;
+  bottom:-30px;
+  right: 150px;
+}
+h3{color: white;
+  margin: 150px 550px 25px;
+  line-height: 2px;
+  text-decoration: underline;
+  text-decoration-style: double;
+  font-size: 30px;
+}
+.cd1{color: white;
+  position: relative;
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width: 10%;
+  bottom: -15px;
+  right: 150px;
+}
+a{
+  position:relative;
+  left: 510px;
+  text-decoration: none;
+}
+a:hover{
+  color: #f88f01;
+}
+.f{color: white;
+  position: relative;
+  right: 190px;
+  width:100%;
+  bottom: 25px;
+  top: -100px;
+}
+.f2{color: white;
+  position: relative;
+    left: 530px;
+    bottom: 102px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
+.f3
+{font-family: 'Kaushan Script', cursive;
+  color: white;
+  position:relative;
+  left: 430px;
+  font-size: 30px;
+}
